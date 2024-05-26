@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "813827740922",
+    "project_id": "subasta2024-7fcw3w",
+    "storage_bucket": "subasta2024-7fcw3w.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813827740922:android:74b21abd9b13076c93e543",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813827740922-4bd4p1rjakh9uk7e8th9vpsnvmmvj7k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFCm6KCCymwHoghU_yTTqjrraSQte7JdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813827740922-4bd4p1rjakh9uk7e8th9vpsnvmmvj7k7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "813827740922-9m25c7nfmu46qsbbug57q4qlh8kvlkl4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.glucorp.subasta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813827740922:android:2180983723274c9493e543",
+        "android_client_info": {
+          "package_name": "com.glucorp.subasta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813827740922-l9i3g997ioqavl5cls7f0sa566m0hcg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glucorp.subasta",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "813827740922-4bd4p1rjakh9uk7e8th9vpsnvmmvj7k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFCm6KCCymwHoghU_yTTqjrraSQte7JdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813827740922-4bd4p1rjakh9uk7e8th9vpsnvmmvj7k7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "813827740922-9m25c7nfmu46qsbbug57q4qlh8kvlkl4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.glucorp.subasta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813827740922:android:230e285c89e1cbdf93e543",
+        "android_client_info": {
+          "package_name": "com.menu.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813827740922-4bd4p1rjakh9uk7e8th9vpsnvmmvj7k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFCm6KCCymwHoghU_yTTqjrraSQte7JdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813827740922-4bd4p1rjakh9uk7e8th9vpsnvmmvj7k7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "813827740922-9m25c7nfmu46qsbbug57q4qlh8kvlkl4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.glucorp.subasta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813827740922:android:b2753f381d2e5f3293e543",
+        "android_client_info": {
+          "package_name": "com.taric.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813827740922-4bd4p1rjakh9uk7e8th9vpsnvmmvj7k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFCm6KCCymwHoghU_yTTqjrraSQte7JdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813827740922-4bd4p1rjakh9uk7e8th9vpsnvmmvj7k7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "813827740922-9m25c7nfmu46qsbbug57q4qlh8kvlkl4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.glucorp.subasta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
