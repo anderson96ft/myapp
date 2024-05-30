@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 import '../../common/color_extension.dart';
-import '../../common_widget/round_textfield.dart';
 import '../more/my_order_view.dart';
 import 'menu_items_view.dart';
 
@@ -15,7 +14,7 @@ class MenuView extends StatefulWidget {
 class _MenuViewState extends State<MenuView> {
   List menuArr = [
     {
-      "name": "Food",
+      "name": "FooAd",
       "image": "assets/img/menu_1.png",
       "items_count": "120",
     },
@@ -93,22 +92,6 @@ class _MenuViewState extends State<MenuView> {
                   ),
                   const SizedBox(
                     height: 20,
-                  ),
-                  Padding(
-                    padding: const EdgeInsets.symmetric(horizontal: 20),
-                    child: RoundTextfield(
-                      hintText: "Search Food",
-                      controller: txtSearch,
-                      left: Container(
-                        alignment: Alignment.center,
-                        width: 30,
-                        child: Image.asset(
-                          "assets/img/search.png",
-                          width: 20,
-                          height: 20,
-                        ),
-                      ),
-                    ),
                   ),
                   const SizedBox(
                     height: 30,

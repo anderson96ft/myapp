@@ -18,7 +18,7 @@ class MainTabView extends StatefulWidget {
 class _MainTabViewState extends State<MainTabView> {
   int selctTab = 2;
   PageStorageBucket storageBucket = PageStorageBucket();
-  Widget selectPageView = const HomeView();
+  Widget selectPageView = const MenuView();
 
   @override
   Widget build(BuildContext context) {
@@ -34,7 +34,7 @@ class _MainTabViewState extends State<MainTabView> {
           onPressed: () {
             if (selctTab != 2) {
               selctTab = 2;
-              selectPageView = const HomeView();
+              selectPageView = const MenuView();
             }
             if (mounted) {
               setState(() {});
@@ -66,7 +66,7 @@ class _MainTabViewState extends State<MainTabView> {
                   onTap: () {
                     if (selctTab != 0) {
                       selctTab = 0;
-                      selectPageView = const MenuView();
+                      selectPageView = const HomeView();
                     }
                     if (mounted) {
                       setState(() {});
